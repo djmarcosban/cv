@@ -88,6 +88,19 @@
         "Build projects giving with much finance return to our customers",
         "Utilizing new technologies and frameworks like Chart.js, React Nactive and Laravel, we build dashboards and mobile apps"
       ]
+    },
+    {
+      "company": "Pet Seguro",
+      "url": "https://petseguro.io",
+      "website": "https://petseguro.io",
+      "position": "Full stack Developer",
+      "startDate": "2023-03-01",
+      "location": "Goiânia, GO, Brazil",
+      "summary": "Build an platform where is genereted a QrCode to print in a metal to publish the profile of a domestic animal.",
+      "highlights": [
+        "Developed using Laravel 10, HTML5, CSS/Bootstrap, Javascript and MySQL as database",
+        "Published in a conventional host Linux com server Litespeed"
+      ]
     }
   ],
   "education": [
