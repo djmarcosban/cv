@@ -1,0 +1,173 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "onepage-plus"
+  },
+  "basics": {
+    "name": "Marcos Felipe Neris Correa",
+    "email": "djmarcosban@hotmail.com",
+    "label": "Software Engineer",
+    "summary": "I've been a web developer for almost 14 years and my personal motivation is to solve problems of my customers. My goal is to help them achieve the continuous and sustainable growth of their projects. I believe that a well-executed sale is the result of a well-made relationship generating the beginning of a deep-rooted partnership.",
+    "location": {
+      "countryCode": "BR",
+      "city": "Goiânia",
+      "region": "Goiás"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "djmarcosban",
+        "url": "https://github.com/djmarcosban"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "devmarcoz",
+        "url": "https://www.linkedin.com/in/devmarcoz/"
+      },
+      {
+        "network": "Instagram",
+        "username": "devmarcoz",
+        "url": "https://instagram.com/devmarcoz/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fox Sistemas",
+      "url": "",
+      "website": "",
+      "position": "Junior Software Engineer",
+      "startDate": "2016-01-01",
+      "location": "Senador Canedo, GO, Brazil",
+      "summary": "Working on the Frontend Experience team, responsible for implementing the company's Design system as a React component library. Designing and implementing the company's tooling and infrastructure for frontend",
+      "highlights": [
+        "Maitenance of the company's Design System React implementation, used by hundreds of developers, across dozens of teams",
+        "Optmized and created the company developer tools, CLI and infrastructure",
+        "Management updates of company-wide tooling, keeping Storybook, webpack, and package managers on the edge of modern tools acrros multiple different products",
+        "Architecturing new products"
+      ]
+    },
+    {
+      "company": "Grite Alto",
+      "url": "",
+      "website": "",
+      "position": "Full stack Developer",
+      "startDate": "2018-01-01",
+      "location": "Goiânia, GO, Brazil",
+      "summary": "Working in build a web platform to receive issues from consumers of the market.",
+      "highlights": [
+        "We create a mind map to validate the user experiencie in our platform",
+        "Development with PHP, HTML, CSS, JavaScript and MySQL as database",
+        "There was a panel administrator to receive the leads",
+        "implementation of the SEO"
+      ]
+    },
+    {
+      "company": "StudioQUE",
+      "url": "https://studioque.com.br/",
+      "website": "https://studioque.com.br/",
+      "position": "Full stack Developer",
+      "startDate": "2019-01-01",
+      "location": "Goiânia, GO, Brazil",
+      "summary": "My first experience with agency. Working building websites and landing pages using PHP, HTML CSS and Javascript. Was my first contact with CMS Wordpress.",
+      "highlights": [
+        "Design and programming landpages with high performance to retrieve leads with good pratics of the SEO",
+        "Using tools like Hotjar to observe the user experience"
+      ]
+    },
+    {
+      "company": "Grifo Propaganda",
+      "url": "https://grifopropaganda.com.br",
+      "website": "https://grifopropaganda.com.br",
+      "position": "Full stack Developer",
+      "startDate": "2021-09-01",
+      "location": "Goiânia, GO, Brazil",
+      "summary": "My second participation in an agency, building institucional webistes, e-commerce, landing pages and mobile apps.",
+      "highlights": [
+        "I Implemented the Software Development Cycle",
+        "Build projects giving with much finance return to our customers",
+        "Utilizing new technologies and frameworks like Chart.js, React Nactive and Laravel, we build dashboards and mobile apps"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "instituition": "unialfa",
+      "url": "https://www.unialfa.com.br/",
+      "website": "https://www.unialfa.com.br/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-02-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "CSS3+",
+        "SASS",
+        "HTML5+",
+        "SEO",
+        "Bootstrap",
+        "Semantic Web"
+      ]
+    },
+    {
+      "name": "Developer Experience/Tooling/Framework",
+      "level": "Master",
+      "keywords": [
+        "NPM",
+        "Composer",
+        "Webpack",
+        "Design Systems",
+        "UX/UI",
+        "Laravel",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "DBA",
+      "level": "Master",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "PHP Development",
+      "level": "Master",
+      "keywords": [
+        "Since PHP 4.5",
+        "MVC",
+        "Repository Pattern",
+        "Main Framework Laravel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediary"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
+    }
+  ]
+}
